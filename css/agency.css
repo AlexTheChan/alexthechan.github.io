@@ -281,7 +281,7 @@ fieldset[disabled] .btn-xl.active {
 
 header {
     text-align: center;
-    color: #fff;
+    color: #333; #fff;
     background-attachment: fixed; fixed;
     background-image: url(../img/SeagullsLower.jpg);
     background-position: center center;
