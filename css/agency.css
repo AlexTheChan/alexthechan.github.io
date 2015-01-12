@@ -323,7 +323,7 @@ header .intro-text .intro-heading {
     line-height: 50px;
 }
 
-@media(min-width:1024px) {
+@media(min-width:1170px) {
     header {
         background-attachment: fixed;
         height:80%;
