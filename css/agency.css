@@ -300,8 +300,8 @@ header {
     height:100%;
     width:100%;
 }
-.headerimg{
-    
+.headerimg {
+    max-height: 500px;
 }
 
 header .intro-text {
