@@ -287,7 +287,7 @@ fieldset[disabled] .btn-xl.active {
 
 header {
     text-align: center;
-    color: #fff; #fff;
+    color: #fff;
     background-attachment: scroll;
     background-image: url(../img/HeaderBackground.jpg);
     background-position: center center;
@@ -849,7 +849,7 @@ footer span.copyright {
     text-transform: none;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     line-height: 40px;
-    color: #fed136; #333; #fff;
+    color: #fed136;
 }
 
 footer ul.quicklinks {
